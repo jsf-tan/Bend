@@ -274,13 +274,3 @@ def main:
 ```
 
 </details>
-  
-if you are interested in some other algorithms, you can check our [examples folder](https://github.com/HigherOrderCO/Bend/tree/main/examples)
-
-
-### Additional Resources
- - To understand the technology behind Bend, check out the HVM2 [paper](https://paper.higherorderco.com/).
- - We are working on an official documentation, meanwhile for a more in depth
-     explanation check [GUIDE.md](https://github.com/HigherOrderCO/Bend/blob/main/GUIDE.md)
- - Read about our features at [FEATURES.md](https://github.com/HigherOrderCO/Bend/blob/main/FEATURES.md)
- - Bend is developed by [HigherOrderCO](https://higherorderco.com/) - join our [Discord](https://discord.higherorderco.com)!
